@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Incesa.kml</name>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_triangle">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_triangle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_triangle">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>667fffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle0">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_triangle0">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_triangle1">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_triangle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_triangle2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>667fffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_triangle1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_triangle2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_triangle2">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.945456</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Incesa</name>
+		<open>1</open>
+		<Placemark>
+			<name>Varredeira</name>
+			<LookAt>
+				<longitude>-40.24457502138161</longitude>
+				<latitude>-20.18300420078349</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004788500350059787</heading>
+				<tilt>0</tilt>
+				<range>431.9750470710127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.24491493231817,-20.18346124100468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pá carregadeira</name>
+			<LookAt>
+				<longitude>-40.2434178063796</longitude>
+				<latitude>-20.18148669179317</latitude>
+				<altitude>0</altitude>
+				<heading>7.961902721726858e-005</heading>
+				<tilt>0</tilt>
+				<range>431.9750470752998</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.24359730383122,-20.18083607679557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pá carregadeira</name>
+			<LookAt>
+				<longitude>-40.24442606357479</longitude>
+				<latitude>-20.18209608004923</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004274691761384056</heading>
+				<tilt>0</tilt>
+				<range>431.9750470741692</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.24569020599186,-20.18223407616392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trator</name>
+			<LookAt>
+				<longitude>-40.24351328500357</longitude>
+				<latitude>-20.18093824053116</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001125609657082403</heading>
+				<tilt>0</tilt>
+				<range>431.9750470736924</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.24380735674354,-20.18091852416512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caminhão</name>
+			<LookAt>
+				<longitude>-40.24394867730959</longitude>
+				<latitude>-20.18301734212668</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002627492735149867</heading>
+				<tilt>0</tilt>
+				<range>431.9750470723867</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.24475833524642,-20.18233445931471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR - Pilhas</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-10-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.24375660202244</longitude>
+				<latitude>-20.18155578319434</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001966875912251131</heading>
+				<tilt>0</tilt>
+				<range>470.429547256232</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.243403,-20.180687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilha de Materiais 02</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.24568211004597,-20.18139825667738,0 -40.2459094212494,-20.18150956170945,0 -40.24595272792942,-20.18161698272238,0 -40.24598038946481,-20.18202215845214,0 -40.24596762368562,-20.18305400080352,0 -40.2459164983749,-20.18341394671103,0 -40.24602303103803,-20.18366190842315,0 -40.24612103775558,-20.18371789913696,0 -40.24621052799415,-20.18397786058232,0 -40.24618977757915,-20.18411894834801,0 -40.24556253133463,-20.1841259679622,0 -40.24553638884345,-20.18357228647909,0 -40.24549510738319,-20.18263272508129,0 -40.24548016451345,-20.18212109557693,0 -40.24548389748038,-20.18200499027008,0 -40.24559217012033,-20.18198746738056,0 -40.24560336742484,-20.18178772167142,0 -40.245618296544,-20.18149686348352,0 -40.24559215970317,-20.18138472560161,0 -40.24568211004597,-20.18139825667738,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pilha de Materiais 01</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.24273400134872,-20.18003008280576,0 -40.24291700036193,-20.18013028054422,0 -40.24327156081596,-20.18024121305437,0 -40.24380149608007,-20.18052033045933,0 -40.24415224634138,-20.18073145639645,0 -40.24404549723389,-20.18097836941016,0 -40.2442437482146,-20.18107498595999,0 -40.24423612715619,-20.18162964382445,0 -40.24417893960997,-20.18167974224792,0 -40.24398068817695,-20.18163680169096,0 -40.24378243652406,-20.18144714530974,0 -40.24368712350373,-20.18133979263187,0 -40.24356131092592,-20.1813075870558,0 -40.24350793585355,-20.18124675384879,0 -40.24334781100558,-20.18118949919943,0 -40.24329443607572,-20.18113224437215,0 -40.24310381158431,-20.18102131305481,0 -40.2429513121191,-20.18092827366445,0 -40.24279118772587,-20.18083881245516,0 -40.24258150107144,-20.18069567417828,0 -40.24247475170617,-20.18053106521145,0 -40.24242518939159,-20.18045949596966,0 -40.2423565647203,-20.18037003416245,0 -40.24242900238533,-20.18018395491627,0 -40.24255481460074,-20.18007660189342,0 -40.24273400134872,-20.18003008280576,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>TR - Descarga de Caminhão</name>
+			<LookAt>
+				<gx:TimeStamp><when>2015-10-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.24368589737136</longitude>
+				<latitude>-20.18169241504564</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001722982004608681</heading>
+				<tilt>0</tilt>
+				<range>470.4295472564255</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.244647,-20.181007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Secador 1</name>
+			<LookAt>
+				<longitude>-40.2442371861382</longitude>
+				<latitude>-20.18248109394109</latitude>
+				<altitude>0</altitude>
+				<heading>-1.621152777108281e-005</heading>
+				<tilt>0</tilt>
+				<range>666.2246331669692</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.24523,-20.182122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Secador 2</name>
+			<LookAt>
+				<longitude>-40.2442371861382</longitude>
+				<latitude>-20.18248109394109</latitude>
+				<altitude>0</altitude>
+				<heading>-1.621152777108281e-005</heading>
+				<tilt>0</tilt>
+				<range>666.2246331669692</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.245403,-20.18213,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

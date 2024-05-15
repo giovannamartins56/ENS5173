@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Betume GV.kml</name>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>807faa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>807faa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot2">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot4">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot3">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot20">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot2">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot3">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Betume GV</name>
+		<Placemark>
+			<name>Polígono sem título</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.3981578305821,-20.31839885770725,0 -40.39847041385477,-20.31844411044722,0 -40.39858294045347,-20.31848096330857,0 -40.3987061591873,-20.3184592079174,0 -40.39876524849647,-20.31884443309297,0 -40.39860272629385,-20.31893825850874,0 -40.39839013918663,-20.31908908047814,0 -40.39797734804189,-20.3193203747062,0 -40.39783617436947,-20.31933209858735,0 -40.39781303430881,-20.31853785282517,0 -40.39754147144031,-20.31853282180501,0 -40.39758258041366,-20.31832844405546,0 -40.39807923459131,-20.3183100920719,0 -40.3981578305821,-20.31839885770725,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Folder>
+			<name>Tanques</name>
+			<Placemark>
+				<name>Tanque 01/TN60</name>
+				<LookAt>
+					<gx:TimeStamp><when>2018-06-22</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.39829956558989</longitude>
+					<latitude>-20.31876835438805</latitude>
+					<altitude>0</altitude>
+					<heading>0.001030908893555686</heading>
+					<tilt>0</tilt>
+					<range>116.9842740796709</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.39831508620992,-20.31857375686005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tanque 02/TN60</name>
+				<LookAt>
+					<gx:TimeStamp><when>2018-06-22</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.39863184684436</longitude>
+					<latitude>-20.3190995641431</latitude>
+					<altitude>0</altitude>
+					<heading>0.001145623044276034</heading>
+					<tilt>0</tilt>
+					<range>289.1309535467134</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.39828393644472,-20.31858980173685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tanque 03/TN60</name>
+				<LookAt>
+					<gx:TimeStamp><when>2018-06-22</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.39863184684436</longitude>
+					<latitude>-20.3190995641431</latitude>
+					<altitude>0</altitude>
+					<heading>0.001145623044276034</heading>
+					<tilt>0</tilt>
+					<range>289.1309535467134</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.398243,-20.318597,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T. BPF / TN30</name>
+				<LookAt>
+					<gx:TimeStamp><when>2018-06-22</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.39863184684436</longitude>
+					<latitude>-20.3190995641431</latitude>
+					<altitude>0</altitude>
+					<heading>0.001145623044276034</heading>
+					<tilt>0</tilt>
+					<range>289.1309535467134</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.39820206674925,-20.31860658287491,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Pilhas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Pilha de Materiais</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-40.39809492849106,-20.31835912978783,0 -40.39812782338,-20.31838997366698,0 -40.39812783250718,-20.31842081606273,0 -40.3980978112785,-20.31844495337951,0 -40.39805920477435,-20.31843958700456,0 -40.39798484377959,-20.31841946617881,0 -40.3979376475656,-20.31841946555002,0 -40.39790761320631,-20.31841812393603,0 -40.39783610286674,-20.31845835957941,0 -40.39777317237073,-20.31845567634577,0 -40.39775314909784,-20.31842482791393,0 -40.3976830659161,-20.31847311164951,0 -40.39765446059048,-20.31846238120478,0 -40.39765160195051,-20.31839263654851,0 -40.39769021976562,-20.31834301259676,0 -40.39776316131729,-20.31836179078877,0 -40.39780177717103,-20.31834837914462,0 -40.39786613610104,-20.31834033382662,0 -40.39789330931767,-20.31834972259009,0 -40.39791190184668,-20.31835106420243,0 -40.39793907461565,-20.31835911213866,0 -40.39797196174574,-20.31835106979289,0 -40.39801057125359,-20.31835509774299,0 -40.39809492849106,-20.31835912978783,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Usina Drum Mix</name>
+			<Placemark>
+				<name>Usina Drum Mix</name>
+				<LookAt>
+					<longitude>-40.39833563275558</longitude>
+					<latitude>-20.31871457554913</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006968396490721609</heading>
+					<tilt>0</tilt>
+					<range>122.7290920596941</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.39822919721377,-20.31874156688083,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Transferências</name>
+			<Placemark>
+				<name>Silos</name>
+				<LookAt>
+					<longitude>-40.39835626953818</longitude>
+					<latitude>-20.31871864950713</latitude>
+					<altitude>0</altitude>
+					<heading>0.0007040056417768874</heading>
+					<tilt>0</tilt>
+					<range>122.7284223449488</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.39812385880797,-20.31865296193445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Transferências Pilhas</name>
+				<LookAt>
+					<longitude>-40.39782559046635</longitude>
+					<latitude>-20.31871018593803</latitude>
+					<altitude>0</altitude>
+					<heading>-6.236069783626141</heading>
+					<tilt>0</tilt>
+					<range>210.4580598786437</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.39786415413745,-20.31839530632808,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

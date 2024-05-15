@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chamines_VALE.kml</name>
+	<Style id="sh_shaded_dot7">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot14">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot10">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot11">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot11">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot8">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style2">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot20">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot2">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot3">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot9">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot4">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot5">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot9">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot6">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot8">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot1">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style20">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot6">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot30">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot5">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot10">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot42">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot7">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Chamines</name>
+		<open>1</open>
+		<Folder>
+			<name>Principais</name>
+			<Placemark>
+				<name>Chaminé Principal - U1</name>
+				<description>Chaminé Principal - U1</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25045037924647</longitude>
+					<latitude>-20.27273206475897</latitude>
+					<altitude>0</altitude>
+					<heading>66.36349234879349</heading>
+					<tilt>10.71844263542144</tilt>
+					<range>300.7632887471674</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25087305974773,-20.27224236601559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Principal - U2</name>
+				<description>Chaminé Principal - U2</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24991410161022</longitude>
+					<latitude>-20.27232625244385</latitude>
+					<altitude>0</altitude>
+					<heading>66.36347474602766</heading>
+					<tilt>0</tilt>
+					<range>191.1165756423509</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25008054059256,-20.27219838484718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Principal - U3</name>
+				<description>Chaminé Principal - U3</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25068042433146</longitude>
+					<latitude>-20.2731936505011</latitude>
+					<altitude>0</altitude>
+					<heading>66.36374026467938</heading>
+					<tilt>0</tilt>
+					<range>191.1165756403852</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25061202574972,-20.27337997999481,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Principal - U4</name>
+				<description>Chaminé Principal - U4</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25120389995623</longitude>
+					<latitude>-20.2738525983779</latitude>
+					<altitude>0</altitude>
+					<heading>66.3639216627264</heading>
+					<tilt>0</tilt>
+					<range>191.1165756420708</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25138794024141,-20.27364917171951,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Principal - U5</name>
+				<description>Chaminé Principal - U5</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24355499641304</longitude>
+					<latitude>-20.27667488684942</latitude>
+					<altitude>0</altitude>
+					<heading>68.3784167262446</heading>
+					<tilt>0</tilt>
+					<range>148.6142299597846</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot7</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24361732675769,-20.27649696761629,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Principal - U6</name>
+				<description>Chaminé Principal - U6</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.2428908320287</longitude>
+					<latitude>-20.27643114430402</latitude>
+					<altitude>0</altitude>
+					<heading>68.37819069814957</heading>
+					<tilt>4.371195554771139</tilt>
+					<range>191.1007283462983</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot7</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24298527005585,-20.27626332728164,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Principal - U7</name>
+				<description>Chaminé Principal - U7</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24143757241154</longitude>
+					<latitude>-20.27787472819658</latitude>
+					<altitude>0</altitude>
+					<heading>68.37768701386304</heading>
+					<tilt>4.371195554771306</tilt>
+					<range>191.1007283447729</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24161364564048,-20.27736917341843,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Principal - U8</name>
+				<description>Chaminé Principal - U8</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24356716843448</longitude>
+					<latitude>-20.2596830453222</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003784330255160851</heading>
+					<tilt>0</tilt>
+					<range>295.3565372992284</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot03</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24422557156518,-20.25954830112725,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Secundárias</name>
+			<Placemark>
+				<name>Chaminé Secundária - U1</name>
+				<description>Chaminé Secundária - U1</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25068042433146</longitude>
+					<latitude>-20.2731936505011</latitude>
+					<altitude>0</altitude>
+					<heading>66.36374026467938</heading>
+					<tilt>0</tilt>
+					<range>191.1165756403852</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25076047146233,-20.27314124538139,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Secundária - U2</name>
+				<description>Chaminé Secundária - U2</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25006788178396</longitude>
+					<latitude>-20.27186356809488</latitude>
+					<altitude>0</altitude>
+					<heading>66.36352811096593</heading>
+					<tilt>0</tilt>
+					<range>191.1165756407293</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot30</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25011555641532,-20.27156276769873,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Secundária - U3</name>
+				<description>Chaminé Secundária - U3</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25068042433146</longitude>
+					<latitude>-20.2731936505011</latitude>
+					<altitude>0</altitude>
+					<heading>66.36374026467938</heading>
+					<tilt>0</tilt>
+					<range>191.1165756403852</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25078539494507,-20.2730008113052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Secundária - U4</name>
+				<description>Chaminé Secundária - U4</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25181359768098</longitude>
+					<latitude>-20.2729505500914</latitude>
+					<altitude>0</altitude>
+					<heading>66.36413293701641</heading>
+					<tilt>0</tilt>
+					<range>191.1165756409302</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot30</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25193309139964,-20.2728514231924,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Secundária - U5</name>
+				<description>Chaminé Secundária - U5</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24302367620038</longitude>
+					<latitude>-20.27830925253936</latitude>
+					<altitude>0</altitude>
+					<heading>68.37823674038729</heading>
+					<tilt>4.371195554771139</tilt>
+					<range>191.1007283490565</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24297314013124,-20.27813226516745,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Secundária - U6</name>
+				<description>Chaminé Secundária - U6</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24302367620038</longitude>
+					<latitude>-20.27830925253936</latitude>
+					<altitude>0</altitude>
+					<heading>68.37823674038729</heading>
+					<tilt>4.371195554771139</tilt>
+					<range>191.1007283490565</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24301832098943,-20.27802117410926,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaminé Secundária - U8</name>
+				<description>Chaminé Secundária - U8</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24356716843448</longitude>
+					<latitude>-20.2596830453222</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003784330255160851</heading>
+					<tilt>0</tilt>
+					<range>295.3565372992284</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot11</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24390825911838,-20.25931387604194,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Despoeiramento</name>
+			<Placemark>
+				<name>Despoeiramento - U1</name>
+				<description>Despoeiramento - U1</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25029430352531</longitude>
+					<latitude>-20.27398094500673</latitude>
+					<altitude>0</altitude>
+					<heading>67.15009425442622</heading>
+					<tilt>11.14795643811981</tilt>
+					<range>285.8910566029415</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.2504088520122,-20.27409788802235,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Despoeiramento - U2</name>
+				<description>Despoeiramento - U2</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24991850201545</longitude>
+					<latitude>-20.27376893584136</latitude>
+					<altitude>0</altitude>
+					<heading>66.36347625732863</heading>
+					<tilt>0</tilt>
+					<range>191.1165756425363</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24983482570234,-20.27395396048846,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Despoeiramento - U3</name>
+				<description>Despoeiramento - U3</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25095324041089</longitude>
+					<latitude>-20.27407586317123</latitude>
+					<altitude>0</altitude>
+					<heading>66.36383480726809</heading>
+					<tilt>0</tilt>
+					<range>191.1165756432665</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25125162055093,-20.27391109767907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Despoeiramento - U4</name>
+				<description>Despoeiramento - U4</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.25120389995623</longitude>
+					<latitude>-20.2738525983779</latitude>
+					<altitude>0</altitude>
+					<heading>66.3639216627264</heading>
+					<tilt>0</tilt>
+					<range>191.1165756420708</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.25153200605323,-20.27363546489456,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Despoeiramento - U5</name>
+				<description>Despoeiramento - U5</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24379066456215</longitude>
+					<latitude>-20.27613956182501</latitude>
+					<altitude>0</altitude>
+					<heading>68.37849839816455</heading>
+					<tilt>0</tilt>
+					<range>148.61422995651</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot20</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24389454782346,-20.27595932986902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Despoeiramento - U6</name>
+				<description>Despoeiramento - U6</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.2428908320287</longitude>
+					<latitude>-20.27643114430402</latitude>
+					<altitude>0</altitude>
+					<heading>68.37819069814957</heading>
+					<tilt>4.371195554771139</tilt>
+					<range>191.1007283462983</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24276860709182,-20.27592376916293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Despoeiramento - U7</name>
+				<description>Despoeiramento - U7</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.2416684032819</longitude>
+					<latitude>-20.27652124659336</latitude>
+					<altitude>0</altitude>
+					<heading>67.14745528390809</heading>
+					<tilt>30.00122065187672</tilt>
+					<range>388.9246982985973</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24217190526581,-20.27637457499396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Despoeiramento - U8</name>
+				<description>Despoeiramento - U8</description>
+				<LookAt>
+					<gx:TimeStamp><when>2014-07-18</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.24585705739346</longitude>
+					<latitude>-20.25981222117426</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00273810566418251</heading>
+					<tilt>30.00038683818554</tilt>
+					<range>341.0488573018976</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.24637518024447,-20.26003946589532,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Menor Porte</name>
+			<Placemark>
+				<name>Desc. Silos Insum./Pontos Cap. Corr. Conf. - Usina 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.2410502,-20.27759548,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo Calcário Dolomítico 5SL3 - Usinas 5 e 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24204111,-20.27818476,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo Calcário Calcítico 5SL2 - Usinas 5 e 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24201282,-20.27823917,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 6A1 - Usina 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24193636,-20.27825778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 5A1 - Usina 5</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.2419738,-20.2781491,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Bentonita 5SL5 - Usinas 5 e 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24207861,-20.27808511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Cal 5SL6 - Usinas 5 e 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24210698,-20.27803973,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Carvão 5SL4 - Usinas 5 e 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24205983,-20.27813042,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Calcário Dolomítico 7A1E - Usina 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24107777,-20.27745073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 5A6 - Usina 5</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24158931,-20.27796209,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 7A1B - Usina 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24098195,-20.27744238,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Calcário Calcítico 7A1D - Usina 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24109649,-20.27739639,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silos de Aglomerante 3A1A/B - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25090207,-20.27153537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Desc. Silos Insum./ Pontos Cap. Corr. Conf. 4P100 - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25163898,-20.27149397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Carvão 7A1F - Usina 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24105891,-20.27748701,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo Diário SL06 - Usinas 1 a 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24348309,-20.27409984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silos de Aglomerante 4A1B - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25114113,-20.27149752,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silos de Aglomerante 4A1A - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25114127,-20.27151559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo Diário SL07 - Usinas 1 a 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24351188,-20.27410867,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Cal Hidratada TC1G (2) - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24537906,-20.27412251,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 7A1A/B - Usina 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24098195,-20.27744238,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 3A1B - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25112155,-20.27144345,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Carvão 4A106 - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25141776,-20.27136906,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moinho E08  - Usinas 1 a 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24377614,-20.27362795,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moinho MR03 - Usinas 1 a 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24361554,-20.27390014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Calcário Calcítico 4A104 - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25153301,-20.27141341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Descarga Silos Insum/ Pontos Cap. Corr. Conf 3P100 - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25167626,-20.27136721,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Calcário Dolomítico 4A105 - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25147535,-20.27138672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Cal Hidratada TC1G - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24537906,-20.27412251,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Carvão 3A106 - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25144597,-20.27130561,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Cal 4A108 - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25132173,-20.27133361,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Bentonita 4A107 - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25137932,-20.27135126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Calcário Dolomítico 3A105 - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25150363,-20.27133231,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silos de Aglomerante AZ101/102 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25010576,-20.27133325,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moinho MR02 - Usinas 1 a 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24366348,-20.27390883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Desc. Silos Insum./Pontos Cap. Corr. Conf. 2 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25168518,-20.27128584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Bentonita 3A107 - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25139796,-20.27128789,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo Calcário Calcítico AZ104 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25158944,-20.27128652,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Bentonita AZ107 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25143568,-20.27121534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 3A1A - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25098679,-20.27135407,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Cal 3A108 - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25134994,-20.27127016,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Carvão AZ106 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25147412,-20.27123313,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo Calcário Dolomítico AZ105 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25153178,-20.27125983,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante AZ101 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25007559,-20.27115277,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento Silo de Calcário Calcítico 3A104 - Usina 3</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25156122,-20.27134996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Peridur BZ109 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25133965,-20.27117989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coluna A - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25007655,-20.27007763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Descarga de Bentonita - Usinas 1 e 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25079771,-20.27046097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coluna B - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25007655,-20.27007763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento do Silo de Cal AZ108 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25137809,-20.27119768,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Processo - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25014133,-20.26979709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Correias EC19, EC3 e EC4 - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25015968,-20.26969757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Correia EC15 - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25016004,-20.26974274,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Correia EC13 - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25015982,-20.26971564,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento Silo de Antracito Sl-8321-06 - Mistura - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24284117,-20.25962163,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento Silo de Bentonita Sl-8321-07 - Mistura - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24288918,-20.25963936,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 7A1A - Usina 7</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24098195,-20.27744238,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Descarga de Cal Virgem e Tremonhas - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25016026,-20.26976985,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Desc.Silos Insum./Pomtos Cap.Corr.Conf. 1 - Mistura - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.2427553,-20.25965838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante 6A6 - Usina 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24155181,-20.27806174,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Descarga de Bentonita - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24274637,-20.25973976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento Silo de Calcário Calcítico Sl-8321-03 - Mistura - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24276415,-20.25956797,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moinho - Unidade de Moagem de Carvão e Calcário - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24273213,-20.2591526,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento Silo Calcário Dolomítico Sl-8321-05 - Mistura - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24280266,-20.2595948,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Desc.Silos Insum./Pomtos Cap.Corr.Conf. 2 - Mistura - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24284045,-20.25953129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Recebimento Silo de Cal Sl-8321-04 - Mistura - Usina 8</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24292769,-20.25966619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Cal Hidratada TC1E - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25007655,-20.27007763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Cal Hidratada TC1C - Cal</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25024946,-20.27014867,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silo de Aglomerante AZ102 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25018178,-20.27126043,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Desc. Silos Insum./Pontos Cap. Corr. Conf. 1 - Usinas 1 e 2</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25169446,-20.27124963,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Desc. Silos Insum./Pontos Cap. Corr. Conf. - Usinas 5 e 6</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.24209942,-20.27829276,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silos de Aglomerante 4A1A/B - Usina 4</name>
+				<styleUrl>#style21</styleUrl>
+				<Point>
+					<coordinates>-40.25109369,-20.27155207,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

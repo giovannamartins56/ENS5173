@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Arcelor Mittal Cariacica.kml</name>
+	<StyleMap id="msn_ylw-pushpin512">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin86</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin84</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>667fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot13">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_shaded_dot15">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin216">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin117</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin511</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin84">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin511">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>b27fffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot14">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin117">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>b27fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_shaded_dot16">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin06">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faa00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>667faa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin86">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc7faaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin216">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc7faaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faa00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>667faa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>667fffff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Arcelor Mittal Cariacica</name>
+		<open>1</open>
+		<Placemark>
+			<name>Laminação - Linha Leve/Linha Média</name>
+			<styleUrl>#msn_ylw-pushpin216</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.36046749173313,-20.33963154602882,0 -40.36097530422356,-20.33959550625136,0 -40.36110597088986,-20.34154339023358,0 -40.36124434368121,-20.34336141123944,0 -40.36100582313322,-20.343339753957,0 -40.36090587187639,-20.34227923886115,0 -40.36066735356458,-20.34225758123725,0 -40.36058277845648,-20.34140628593156,0 -40.36035195340702,-20.34141348551884,0 -40.36025201674094,-20.3402014689833,0 -40.36049822981865,-20.34017984209468,0 -40.36046749173313,-20.33963154602882,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Aciaria</name>
+			<styleUrl>#msn_ylw-pushpin216</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.36120155883117,-20.34736906690553,0 -40.36122173360525,-20.34730602849601,0 -40.36140326869204,-20.34729343103879,0 -40.36142343577414,-20.34734386389251,0 -40.36190753039144,-20.34731867464703,0 -40.36196127334824,-20.34803417760136,0 -40.36165535112407,-20.34804361615784,0 -40.36165196539732,-20.34842500574873,0 -40.36146370425037,-20.34845021046328,0 -40.36142673084176,-20.34835564877079,0 -40.36111408450514,-20.34838399784202,0 -40.36110400600379,-20.3482831338978,0 -40.36091574689934,-20.34828942639819,0 -40.36084178815194,-20.34828942186243,0 -40.36081153826043,-20.34820431660508,0 -40.36089222265295,-20.34817280181416,0 -40.36088555438755,-20.34737850395844,0 -40.36120155883117,-20.34736906690553,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pátio de Sucata Interna</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.36099164334127,-20.34858970528727,0 -40.36249272139899,-20.34848027765481,0 -40.36254027806156,-20.348934540579,0 -40.36099161057018,-20.34906424296863,0 -40.36099164334127,-20.34858970528727,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Despoeiramento</name>
+			<styleUrl>#msn_ylw-pushpin512</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.36033917885241,-20.34835266474419,0 -40.36051740453804,-20.34829505551507,0 -40.36058498944057,-20.34852554235143,0 -40.36051124040024,-20.34855434798534,0 -40.36054503250834,-20.34867535361475,0 -40.36048357558817,-20.34868975484642,0 -40.36045285592287,-20.34857451150059,0 -40.36038525389698,-20.34858315024664,0 -40.36033917885241,-20.34835266474419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pátio de Escória</name>
+			<styleUrl>#msn_ylw-pushpin06</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.36050309850016,-20.34976631988836,0 -40.36062524888846,-20.3498496098099,0 -40.36080292538536,-20.35009688117687,0 -40.36093063222723,-20.35029209755596,0 -40.36105278840344,-20.35041703649452,0 -40.36131930812891,-20.35035977178529,0 -40.36149144402008,-20.35043005148663,0 -40.36172744054105,-20.35056800899875,0 -40.3615914000992,-20.35081269176074,0 -40.36113885565738,-20.35090899806608,0 -40.36082401798273,-20.3511979352514,0 -40.36062134684121,-20.3512552002849,0 -40.36038258449819,-20.35117450485359,0 -40.35994227813348,-20.35106257227812,0 -40.35973961085306,-20.35081268247317,0 -40.35953138795499,-20.35079706237325,0 -40.35945920186121,-20.35089337331642,0 -40.35926763665331,-20.35086213436105,0 -40.35916491352106,-20.35082569115208,0 -40.35907051838895,-20.35075801165564,0 -40.35899000720132,-20.35062005057063,0 -40.35899833925193,-20.35044564981547,0 -40.35910106499895,-20.3504092091803,0 -40.35907607886202,-20.35033372065974,0 -40.35913993483126,-20.35030508889273,0 -40.35920934802881,-20.35025823679645,0 -40.35936760907448,-20.35021399181519,0 -40.35958971797063,-20.35023482244986,0 -40.35979794670788,-20.35001358220226,0 -40.35986457921098,-20.34992508537861,0 -40.36030876978536,-20.34976371576797,0 -40.36050309850016,-20.34976631988836,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pátio de Sucata Externa</name>
+			<styleUrl>#msn_ylw-pushpin78</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.36009681439291,-20.34855350762098,0 -40.36018886313334,-20.34936465429211,0 -40.35991275356661,-20.34946820636306,0 -40.35986213038147,-20.34926541946473,0 -40.3597608878172,-20.34908420621412,0 -40.35971026696579,-20.34901517273752,0 -40.35964123846787,-20.34888573501545,0 -40.35955840567002,-20.34885121864383,0 -40.35938813963681,-20.34891162376283,0 -40.35927309566975,-20.34901948906721,0 -40.35912123749205,-20.34915755661861,0 -40.35906601699089,-20.34932582619324,0 -40.35908442542038,-20.34950272517732,0 -40.35914885138119,-20.34957607362233,0 -40.35871628165043,-20.34963216400317,0 -40.35848158968818,-20.3496623662313,0 -40.35782813298227,-20.34973139967125,0 -40.35761184940137,-20.34952861213345,0 -40.35751521298105,-20.34934308367174,0 -40.35732194181927,-20.34885121849916,0 -40.35722990879174,-20.34854488191575,0 -40.35733575371755,-20.34792358146753,0 -40.35745079866516,-20.34769922329424,0 -40.35832973135467,-20.34764745158101,0 -40.35965503434709,-20.34756115310777,0 -40.35986211444406,-20.34757409458985,0 -40.35995415061846,-20.34766901497089,0 -40.36009681439291,-20.34855350762098,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Folder>
+			<name>Transferências</name>
+			<Placemark>
+				<name>TR - Pátio Interno de Sucatas</name>
+				<LookAt>
+					<gx:TimeStamp><when>2015-06-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.36074862962123</longitude>
+					<latitude>-20.34697732341507</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002733691299768055</heading>
+					<tilt>0</tilt>
+					<range>1220.501536805494</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot15</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.361786,-20.348745,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TR - Pátio de Sucata Externo</name>
+				<LookAt>
+					<gx:TimeStamp><when>2015-06-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.36074862962123</longitude>
+					<latitude>-20.34697732341507</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002733691299768055</heading>
+					<tilt>0</tilt>
+					<range>1220.501536805494</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot15</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.358761,-20.348289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TR - Pátio de Escória</name>
+				<LookAt>
+					<gx:TimeStamp><when>2018-06-07</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-40.35975834765065</longitude>
+					<latitude>-20.35027900053498</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0006176728462134276</heading>
+					<tilt>0</tilt>
+					<range>409.7255565422599</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot15</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.360259,-20.350743,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Chaminés</name>
+			<Placemark>
+				<name>CH. Filtro de Manga do Desp. da Aciaria</name>
+				<LookAt>
+					<longitude>-40.3607481804296</longitude>
+					<latitude>-20.3414784586011</latitude>
+					<altitude>0</altitude>
+					<heading>7.594528468398585e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.000210947337</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot14</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.360355,-20.3481,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CH. Linha Leve do Forno de Reaquec.</name>
+				<LookAt>
+					<longitude>-40.35999333888767</longitude>
+					<latitude>-20.34824294460476</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000262061253631515</heading>
+					<tilt>0</tilt>
+					<range>435.4191094433199</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot14</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.360667,-20.342207,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CH Linha Média do Forno de Reaquec.</name>
+				<LookAt>
+					<longitude>-40.35960668168453</longitude>
+					<latitude>-20.3453246977965</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003965218820982616</heading>
+					<tilt>0</tilt>
+					<range>1503.001063130754</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot14</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-40.360626,-20.34181,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Vias</name>
+			<Placemark>
+				<name>Via Pavimentada</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-40.35977702669583,-20.34313591318006,0 -40.36112847338623,-20.34424736317404,0 -40.35984688998232,-20.34569789700942,0 -40.35990001137158,-20.34716063560785,0 -40.36005681614633,-20.34846621193639,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Via não Pavimentada</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-40.36005181837935,-20.34847409290465,0 -40.35965376444565,-20.34857431322519,0 -40.35869859138794,-20.34858242555933,0 -40.35845671380703,-20.3486789305487,0 -40.35836407541125,-20.34882368606498,0 -40.35832290259134,-20.34897809145243,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

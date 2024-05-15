@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PEIÚ.kml</name>
+	<Style id="sn_shaded_dot3">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot2">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot3">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>1.3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot4">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>1.3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>PEIÚ</name>
+		<Placemark>
+			<name>Entrada</name>
+			<LookAt>
+				<longitude>-40.33782563282053</longitude>
+				<latitude>-20.32646561881877</latitude>
+				<altitude>0</altitude>
+				<heading>3.649623349610876e-005</heading>
+				<tilt>0</tilt>
+				<range>182.657219888908</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.33770763588397,-20.32629812944699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Galpão de Armazenamento de Cargas Gerais</name>
+			<LookAt>
+				<longitude>-40.33906331498762</longitude>
+				<latitude>-20.32684489976482</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004664283802651139</heading>
+				<tilt>0</tilt>
+				<range>450.6424797645432</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.33852893722411,-20.32704496949607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Galpão de Armazenamento de Granéis</name>
+			<LookAt>
+				<longitude>-40.33899950309083</longitude>
+				<latitude>-20.32615308139499</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004442665895559313</heading>
+				<tilt>0</tilt>
+				<range>450.6424797628379</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.33904336487585,-20.32557531895398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Via de Tráfego PEIÚ</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-40.33843518959902,-20.32571115396356,0 -40.33822821969404,-20.32585405116931,0 -40.33817818343121,-20.3260289392777,0 -40.33818273272701,-20.32618676487224,0 -40.33819410535534,-20.32638724597181,0 -40.33811905008282,-20.32646829175207,0 -40.33798258548045,-20.32647469040257,0 -40.33786886485383,-20.32635098937436,0 -40.33778016274822,-20.32621235877553,0 -40.33768236304088,-20.32625074881629,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Guindaste</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-07</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.33856589921943</longitude>
+				<latitude>-20.32613811241228</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002936407508174235</heading>
+				<tilt>0</tilt>
+				<range>480.4953048138839</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.33816195011106,-20.32518315711348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guindaste</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-07</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.33856589921943</longitude>
+				<latitude>-20.32613811241228</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002936407508174235</heading>
+				<tilt>0</tilt>
+				<range>480.4953048138839</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.3385701461274,-20.32519910511186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Empilhadeiras</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-07</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.33854464058532</longitude>
+				<latitude>-20.3265009558094</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002862577458997639</heading>
+				<tilt>0</tilt>
+				<range>480.4953048112733</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.33865944161522,-20.32568156704334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR - Navio/Guindaste</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-07</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.33845278890386</longitude>
+				<latitude>-20.32580226375123</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002539968978222308</heading>
+				<tilt>0</tilt>
+				<range>274.0480605999221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.338363,-20.325144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR - Galpão</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-07</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.33845278890386</longitude>
+				<latitude>-20.32580226375123</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002539968978222308</heading>
+				<tilt>0</tilt>
+				<range>274.0480605999221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.338899,-20.325631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TR - Caminhão</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-07</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-40.33780770274253</longitude>
+				<latitude>-20.32562715733371</latitude>
+				<altitude>0</altitude>
+				<heading>2.992087484539474e-005</heading>
+				<tilt>0</tilt>
+				<range>274.0480605997129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-40.337376,-20.325308,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
